@@ -1,0 +1,8 @@
+# J124 Final Project: Impacts of Alcohol on Multiple Aspects of Life
+## By: Darren Chiang
+
+_5 Questions with Step by Step Answers on the following Data Sheet_ 
+
+* **As shown, the pivot table indicates a relationship between the frequency of alcohol consumption (Dalc) and the amount of free time (freetime) among individuals. By selecting freetime as our row and Dalc as our column, we can see that as free time increases, there seems to be an increase in alcohol consumption on weekdays. This trend is evident from the data, where individuals with higher levels of free time (freetime score of 4 or 5) tend to consume more alcohol on weekdays (Dalc score of 4 or 5). Conversely, individuals with lower levels of free time (freetime score of 1 or 2) exhibit lower alcohol consumption on weekdays (Dalc score of 1 or 2). I should note that there are exceptions and concerns because there is indeed missing data for freetime (1) Dalc (4, 5) and freetime (2) and Dalc (5). Aside from this, our data suggests a potential correlation between the availability of free time and alcohol consumption habits on weekdays.
+** <br>
+<br>
